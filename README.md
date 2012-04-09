@@ -20,23 +20,7 @@ ThuThesis为**T**sing**hu**a University **Thesis** LaTeX Template之缩写。
 * **推荐**使用[GitHub Issues](http://github.com/xueruini/thuthesis/issues)。
 * [ThuThesis@Google Groups](http://groups.google.com/group/thuthesis)
 
-<table style="background: white; border:1px solid #aa0033; font-size: 10pt">
-  <tr>
-    <td rowspan=3>
-      <img src="http://groups.google.com/groups/img/groups_medium_zh-CN.gif" height=58 width=150 alt="Google Groups">
-    </td>
-    <td colspan=2 align=center><b>订阅 thuthesis@googlegroups.com</b></td>
-  </tr>
-  <form action="http://groups.google.com/group/thuthesis/boxsubscribe">
-    <tr>
-      <td>电子邮件： <input type=text name=email></td>
-      <td><input type=submit name="sub" value="订阅"></td>
-    </tr>
-  </form>
-  <tr><td colspan=2 align=center> 浏览存于 <a href="http://groups.google.com/">groups.google.com</a> 上的<a href="http://groups.google.com/group/thuthesis">所有帖子</a> </td></tr>
-</table>
-
-* 如果不能访问Google Groups，请访问：[ThuThesis@Nabble](http://thuthesis.1048723.n5.nabble.com)
+ble](http://thuthesis.1048723.n5.nabble.com)
 
 # About me
-[我的个人主页](http://xueruini.myipcn.org)。
+[我的个人主页]
